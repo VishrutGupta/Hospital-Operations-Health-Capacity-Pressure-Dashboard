@@ -93,4 +93,4 @@ Synthetic hospital dataset (30K+ records)
 
 Live Dashboard: 👉 [(Dashboard Link)](https://app.powerbi.com/links/Lw6KDbHg-N?ctid=64f3f3dd-7b0f-4d90-a676-1dcaae8fd955&pbi_source=linkShare)
 
-Demo Video: 👉 (YouTube / Drive link)
+Demo Video: 👉 [(Drive link)](https://drive.google.com/file/d/17-4QVJJVlCuq2zBiiRv4xAKVTdsSqQxp/view?usp=sharing)
